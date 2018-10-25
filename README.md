@@ -34,9 +34,13 @@ that you wish to run the application just follow steps 1-2 and enter the followi
 ## Using the Application
 **What can you do in the application?**
 * Enter your number to be converted into the text area (*Note: The number  
-actually needs to be apart of the correct base*)
+actually needs to be apart of the correct base*)  
+![](https://gitlab.com/jlanders2/notationconverter/raw/master/pictures/textarea_entry-example.png)  
 * After you enter a number you must then select the base to convert from  
 (*Note: This is still a little buggy. Even if it's the same base as before  
 you must repeat this step every time*)  
+![](https://gitlab.com/jlanders2/notationconverter/raw/master/pictures/dropdown-example.png)  
+* Finally your result should look like the following:  
+![](https://gitlab.com/jlanders2/notationconverter/raw/master/pictures/final_result-example.png)
 
 
